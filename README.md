@@ -1,3 +1,5 @@
+### About
+
 Experiment to demonstrate python concurrency and parallelism. Also demonstrates python's Global Interpreter Lock (GIL)
 
 ### RUN
